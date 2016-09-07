@@ -97,11 +97,9 @@ Programming languages and configuration:
 Databases:
 
 * [Postgres] for storing relational data
-* [Postgis] for storing spacial data
 * [Redis] for storing key-value data
 
 [Postgres]: http://www.postgresql.org/
-[Postgis]: http://postgis.net/
 [Redis]: http://redis.io/
 
 It should take less than 15 minutes to install (depends on your machine).
